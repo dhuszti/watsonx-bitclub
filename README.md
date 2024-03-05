@@ -179,9 +179,11 @@ A kérdések sora úgy folytatódik:„"vannak, akik szerint a hitelmoratóriumo
 Egy újabb kérdés arról szól: „sokak szerint a járványok korában óriási veszélyt jelent, ha mindenki szabadon beutazhat Magyarországra. Fenn kell tartani annak a lehetőségét, hogy újabb járványhullámok felbukkanása esetén járványügyi korlátozásokat lehessen előírni, és a járványok által sújtott országokból csak egészségügyi vízummal lehessen belépni Magyarországra. Mások szerint a járvány véget ért, a szabad beutazás lehetőségét minden országból korlátlanul biztosítani kell.”
 ```
 
-### Run first python script
-Menj fel a https://cloud.ibm.com/iam/apikeys oldalra, jelentkezz be az IBM ID-dal.
+### Run first python script (RAG use case)
+Go to following webpage https://cloud.ibm.com/iam/apikeys and login with your IBM ID if not yet done.
 
-Generálj egy új API key-t amelyt használni fogunk
+Please generate a new API key by click on right side to blue "Create" button.
 
-Töltsd le a GITHUB-ról a Jupyter notebookokat és töltsd fel a watsonx.ai felületére.
+Provide a name to API key and copy it to your local machine. You will need it for later during the lab.
+
+Please download from GITHUB two Jupyter notebooks to your local machine.
