@@ -199,13 +199,13 @@ Egy újabb kérdés arról szól: „sokak szerint a járványok korában óriá
 9. Run notebook with "HUN" first and if prompted provide API key. You can change question in last cell.
    
 Ask these questions (one by one):
-'''
+```
 * Mi a Citibank utódja?
 * Mi a Citibank Europe plc székhelye?
 * Citibank Europe plc magyarországi címe?
 * Mi történik a Citibanknál felvett hitelemmel?
 * Mi a törlesztőrészlet?
-'''
+```
 10. Congrats for building first simple RAG use case in Hungarian
 
 
