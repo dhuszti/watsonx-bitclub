@@ -180,10 +180,34 @@ Egy újabb kérdés arról szól: „sokak szerint a járványok korában óriá
 ```
 
 ### Run first python script (RAG use case)
-Go to following webpage https://cloud.ibm.com/iam/apikeys and login with your IBM ID if not yet done.
+1. Go to following webpage https://cloud.ibm.com/iam/apikeys and login with your IBM ID if not yet done.
 
-Please generate a new API key by click on right side to blue "Create" button.
+2. Please generate a new API key by click on right side to blue "Create" button.
 
-Provide a name to API key and copy it to your local machine. You will need it for later during the lab.
+3. Provide a name to API key and copy it to your local machine. You will need it for later during the lab.
+
+4. Upload notebook with "ENG" to IBM watsonx.ai project
+
+5. Run notebook with "ENG" first and if prompted provide API key
+
+6. Congrats for building first simple RAG use case
+
+7. Let us do some tricks to make it work in Hungarian
+   
+8. Upload notebook with "HUN" to IBM watsonx.ai project
+
+9. Run notebook with "HUN" first and if prompted provide API key. You can change question in last cell.
+   
+Ask these questions (one by one):
+'''
+* Mi a Citibank utódja?
+* Mi a Citibank Europe plc székhelye?
+* Citibank Europe plc magyarországi címe?
+* Mi történik a Citibanknál felvett hitelemmel?
+* Mi a törlesztőrészlet?
+'''
+10. Congrats for building first simple RAG use case in Hungarian
+
+
 
 Please download from GITHUB two Jupyter notebooks to your local machine.
