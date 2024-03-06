@@ -185,18 +185,20 @@ Egy újabb kérdés arról szól: „sokak szerint a járványok korában óriá
 2. Please generate a new API key by click on right side to blue "Create" button.
 
 3. Provide a name to API key and copy it to your local machine. You will need it for later during the lab.
+4. 
+5. Please download from GITHUB two Jupyter notebooks to your local machine.
 
-4. Upload notebook with "ENG" to IBM watsonx.ai project
+6. Upload notebook with "ENG" to IBM watsonx.ai project
 
-5. Run notebook with "ENG" first and if prompted provide API key
+7. Run notebook with "ENG" first and if prompted provide API key
 
-6. Congrats for building first simple RAG use case
+8. Congrats for building first simple RAG use case
 
-7. Let us do some tricks to make it work in Hungarian
+9. Let us do some tricks to make it work in Hungarian
    
-8. Upload notebook with "HUN" to IBM watsonx.ai project
+10. Upload notebook with "HUN" to IBM watsonx.ai project
 
-9. Run notebook with "HUN" first and if prompted provide API key. You can change question in last cell.
+11. Run notebook with "HUN" first and if prompted provide API key. You can change question in last cell.
    
 Ask these questions (one by one):
 ```
@@ -206,8 +208,4 @@ Ask these questions (one by one):
 * Mi történik a Citibanknál felvett hitelemmel?
 * Mi a törlesztőrészlet?
 ```
-10. Congrats for building first simple RAG use case in Hungarian
-
-
-
-Please download from GITHUB two Jupyter notebooks to your local machine.
+12. Congrats for building first simple RAG use case in Hungarian
